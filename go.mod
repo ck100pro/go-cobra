@@ -1,4 +1,4 @@
-module main
+module github.com/cobra/tour
 
 go 1.16
 

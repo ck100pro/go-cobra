@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"main/internal/word"
+	"github.com/cobra/tour/internal/word"
 
 	"github.com/spf13/cobra"
 )

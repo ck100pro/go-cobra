@@ -2,7 +2,8 @@ package main
 
 import (
 	"log"
-	"main/cmd"
+
+	"github.com/cobra/tour/cmd"
 )
 
 func main() {
